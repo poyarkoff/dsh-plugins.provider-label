@@ -1,0 +1,10 @@
+- insert:
+    - id: provider-label
+      name: dsh-plugin-provider-label
+      config:
+        # provider id -> CSS colour, e.g. { example-gateway: "#18aa82" }.
+        # Omitted providers get a stable colour derived from their id.
+        colors: {}
+        # provider id -> label text; omitted providers show their display name
+        # as it appears in Settings -> Models.
+        labels: {}

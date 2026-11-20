@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Provider label",
+    "description": "Shows the provider's display name and colour next to the model name in the composer picker."
+  }
+}

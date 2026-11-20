@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Provider label">
+  <rect width="64" height="64" rx="14" fill="#0f172a"/>
+  <rect x="10" y="17" width="32" height="13" rx="6.5" fill="#18aa82"/>
+  <rect x="22" y="34" width="32" height="13" rx="6.5" fill="#8b5cf6"/>
+</svg>
